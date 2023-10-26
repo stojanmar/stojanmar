@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stojanmar
-- 👀 I’m interested in programming electronics for motor controls, voltage converters, radios, IOT....
+- 👀 I’m interested in programming electronics for motor controls, voltage converters, radios, IOTs, HAM radio transceivers....
 
 
 <!---
